@@ -32,7 +32,7 @@ An interactive Bash script for automating the update and upgrade process in Kali
 
 ## 💻 Usage
 ```bash
-wget https://raw.githubusercontent.com/username/kali-update/main/kali_update.sh
+wget https://github.com/SurajInCode/Kali-Linux-Auto-Update-Upgrade-Script.git
 chmod +x kali_update.sh
 sudo ./kali_update.sh
 ```
